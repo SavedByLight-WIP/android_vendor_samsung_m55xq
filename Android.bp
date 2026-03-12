@@ -105,15 +105,6 @@ android_app_import {
 }
 
 prebuilt_etc_xml {
-	name: "android.hardware.atrace@1.0-service",
-	owner: "samsung",
-	src: "proprietary/vendor/etc/vintf/manifest/android.hardware.atrace@1.0-service.xml",
-	filename_from_src: true,
-	sub_dir: "vintf/manifest",
-	soc_specific: true,
-}
-
-prebuilt_etc_xml {
 	name: "android.hardware.gnss-aidl-service-qti",
 	owner: "samsung",
 	src: "proprietary/vendor/etc/vintf/manifest/android.hardware.gnss-aidl-service-qti.xml",
