@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- M55 code for QN6887A-5437 by chenweibing at 20240206 start -->
+<!--
+back_main_camera:
+主供
+back_main_camera:o3101qt_back_s5kgn5:HQ70201000880
+二供
+back_main_camera:o3102txd_back_s5kgn5:HQ70201000890
+三供
+back_main_camera:o3103ly_back_s5kgn5:HQ70201000990
+
+主供
+back_aux1_camera:o3101ly_wide_sc820cs:HQ702010008B0
+二供
+back_aux1_camera:o3102txd_wide_ov08d10:HQ702010008A0
+-->
+
+<Sensors>
+    <Item back_main_camera="o3101qt_back_s5kgn5:HQ70201000880"  back_aux1_camera= "o3101ly_wide_sc820cs:HQ702010008B0" filepath="/vendor/lib/dualcali_golden_qt_ly.bin"></Item>
+    <Item back_main_camera="o3101qt_back_s5kgn5:HQ70201000880"  back_aux1_camera= "o3102txd_wide_ov08d10:HQ702010008A0" filepath="/vendor/lib/dualcali_golden_qt_txd.bin"></Item>
+    <Item back_main_camera="o3102txd_back_s5kgn5:HQ70201000890"  back_aux1_camera= "o3101ly_wide_sc820cs:HQ702010008B0" filepath="/vendor/lib/dualcali_golden_txd_ly.bin"></Item>
+    <Item back_main_camera="o3102txd_back_s5kgn5:HQ70201000890"  back_aux1_camera= "o3102txd_wide_ov08d10:HQ702010008A0" filepath="/vendor/lib/dualcali_golden_txd_txd.bin"></Item>
+    <Item back_main_camera="o3103ly_back_s5kgn5:HQ70201000990"  back_aux1_camera= "o3101ly_wide_sc820cs:HQ702010008B0" filepath="/vendor/lib/dualcali_golden_ly_ly.bin"></Item>
+    <Item back_main_camera="o3103ly_back_s5kgn5:HQ70201000990"  back_aux1_camera= "o3102txd_wide_ov08d10:HQ702010008A0" filepath="/vendor/lib/dualcali_golden_ly_txd.bin"></Item>
+</Sensors>
+<!-- M55 code for QN6887A-5437 by chenweibing at 20240206 end -->
+

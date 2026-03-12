@@ -1,0 +1,56 @@
+AI_Ratio_enable 1
+
+o3101qt_back_s5kgn5
+People[cv][asf] 10 16
+Animal[cv][asf] 12 17
+Plants[cv][asf] 15 15
+Landscape[cv][asf] 10 15
+Environment[cv][asf] 10 16
+BuildPlaces[cv][asf] 10 17
+Text[cv][asf] 10 30
+Food[cv][asf] 10 15
+Cloth[cv][asf] 10 20
+
+o3102txd_back_s5kgn5
+People[cv][asf] 10 16
+Animal[cv][asf] 12 17
+Plants[cv][asf] 15 15
+Landscape[cv][asf] 10 15
+Environment[cv][asf] 10 16
+BuildPlaces[cv][asf] 10 17
+Text[cv][asf] 10 30
+Food[cv][asf] 10 15
+Cloth[cv][asf] 10 20
+
+o3103ly_back_s5kgn5
+People[cv][asf] 10 16
+Animal[cv][asf] 12 17
+Plants[cv][asf] 15 15
+Landscape[cv][asf] 10 15
+Environment[cv][asf] 10 16
+BuildPlaces[cv][asf] 10 17
+Text[cv][asf] 10 30
+Food[cv][asf] 10 15
+Cloth[cv][asf] 10 20
+
+o3101ly_wide_sc820cs
+People[cv][asf] 10 15
+Animal[cv][asf] 10 15
+Plants[cv][asf] 10 15
+Landscape[cv][asf] 10 15
+Environment[cv][asf] 10 15
+BuildPlaces[cv][asf] 10 15
+Text[cv][asf] 10 15
+Food[cv][asf] 10 15
+Cloth[cv][asf] 10 15
+
+o3102txd_wide_ov08d10
+People[cv][asf] 10 15
+Animal[cv][asf] 10 15
+Plants[cv][asf] 10 15
+Landscape[cv][asf] 10 15
+Environment[cv][asf] 10 15
+BuildPlaces[cv][asf] 10 15
+Text[cv][asf] 10 15
+Food[cv][asf] 10 15
+Cloth[cv][asf] 10 15

@@ -1,0 +1,17 @@
+# Tab A9 code for P230717-01378  by wangletian at 20230728 start
+on post-fs-data
+    #Create face mount point
+    mkdir /data/vendor/face
+    chown root system /data/vendor/face
+    chmod 0771 /data/vendor/face
+# Tab A9 code for P230717-01378  by wangletian at 20230728 end
+
+service vendor.face-jdm /vendor/bin/hw/vendor.samsung.hardware.biometrics.face.jdm-service
+    class hal
+    user system
+    group system input uhid
+
+# M55 code for P240328-02376 by WangLetian at 20240403 start
+on property:persist.sys.setupwizard=FINISH
+    setprop persist.vendor.setupwizard FINISH
+# M55 code for P240328-02376 by WangLetian at 20240403 end

@@ -1,0 +1,16 @@
+logConfigMask=0x80
+AECGainThresholdForQCFA=2
+exposeFullSizeForQCFA=TRUE
+enableNativeHEIF=0
+multiCameraSWFrameSyncInterval=0
+multiCameraHWSyncMask=0x1
+multiCameraFPSMatchMask=0x1
+multiCameraFrameSyncMask=0x1
+multiCameraExposureTimeMatch=FALSE
+EISv3DisableOIS=0
+logWarningMask=0x0
+logVerboseMask=0x0
+logInfoMask=0x0
+logEntryExitMask=0x0
+enable3ADebugData=FALSE
+systemLogEnable=0

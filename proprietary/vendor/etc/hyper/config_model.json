@@ -1,0 +1,227 @@
+{
+  "Resources": [
+    {
+      "Name": "TABoost",
+      "BoostPath" : "/dev/cpuctl/top-app/cpu.uclamp.min"
+    },
+    {
+      "Name": "CPUMinFreq",
+      "Handler" : "qc",
+      "FreqTablePath" : "/sys/devices/system/cpu/cpufreq/policy7/scaling_available_frequencies",
+      "BoostPath" : "0x40800200",
+      "Formula": "x / 1000"
+    },
+    {
+      "Name": "CPUMaxFreq",
+      "Handler" : "qc",
+      "FreqTablePath" : "/sys/devices/system/cpu/cpufreq/policy7/scaling_available_frequencies",
+      "BoostPath" : "0x40804200",
+      "Formula": "x / 1000"
+    },
+    {
+      "Name": "CPULittleMinFreq",
+      "Formula": "x / 1000",
+      "Handler": "qc",
+      "FreqTablePath": "/sys/devices/system/cpu/cpu0/cpufreq/scaling_available_frequencies",
+      "BoostPath": "0x40800100",
+      "DefaultValue": "0#"
+    },
+    {
+      "Name": "DDRMaxFreq",
+      "BoostPath" : "/sys/devices/system/cpu/bus_dcvs/DDR/soc:qcom,memlat:ddr:prime-latfloor/max_freq",
+      "FreqTablePath": "/sys/devices/system/cpu/bus_dcvs/DDR/available_frequencies"
+    },
+    {
+      "Name": "DDRMinFreq",
+      "Handler" : "sysfs",
+      "FreqTablePath" : "/sys/devices/system/cpu/bus_dcvs/DDR/available_frequencies",
+      "BoostPath": "/sys/devices/system/cpu/bus_dcvs/DDR/memlat/adaptive_high_freq"
+    },
+    {
+      "Name": "DDRMinFreqLow",
+      "ID" : "0x30001011",
+      "Handler" : "sysfs",
+      "FreqTablePath" : "/sys/devices/system/cpu/bus_dcvs/DDR/available_frequencies",
+      "BoostPath": "/sys/devices/system/cpu/bus_dcvs/DDR/memlat/adaptive_low_freq",
+      "DefaultValue": "0#",
+      "Priority": "high"
+    },
+    {
+      "Name": "L3MinFreq",
+      "FreqTablePath" : "/sys/class/devfreq/18590100.qcom,cpu0-cpu-l3-lat/available_frequencies",
+      "Priority" : "high"
+    },
+    {
+      "Name": "CoreNumBigMin",
+      "Values": [
+        "3","2"
+      ]
+    },
+    {
+      "Name": "CoreNumPrimeMin",
+      "Values": [
+        "1","0"
+      ]
+    }
+  ],
+  "Hints": [
+    {
+      "Hint": "AMS_ACT_START",
+      "ResoureList": [
+        {
+            "Resource" : "CPUBigMinFreq",
+            "Value" : "1804800"
+        },
+        {
+            "Resource" : "CPULittleMinFreq",
+            "Value" : "1363200"
+        }
+      ]
+    },
+    {
+      "Hint": "AMS_APP_HOME",
+      "ResoureList": [
+        {
+          "Resource" : "CPUBigMinFreq",
+          "Value" : "100#"
+        },
+        {
+          "Resource" : "CPULittleMinFreq",
+          "Value" : "100#"
+        }
+      ]
+    },
+    {
+      "Hint": "APP_LAUNCH",
+      "ResoureList": [
+        {
+          "Resource" : "CPUBigMinFreq",
+          "Value" : "100#"
+        },
+        {
+          "Resource" : "CPULittleMinFreq",
+          "Value" : "100#"
+        },
+        {
+          "Resource" : "SchedBoost",
+          "Value" : "2"
+        }
+      ]
+    },
+    {
+      "Hint": "AMS_APP_SWITCH",
+      "ResoureList": [
+        {
+          "Resource" : "CPUBigMinFreq",
+          "Value" : "100#"
+        },
+        {
+          "Resource" : "CPULittleMinFreq",
+          "Value" : "100#"
+        },
+        {
+          "Resource" : "SchedBoost",
+          "Value" : "2"
+        }
+      ]
+    },
+    {
+      "Hint": "AMS_APP_LAUNCH",
+      "ResoureList": [
+        {
+          "Resource" : "CPUBigMinFreq",
+          "Value" : "100#"
+        },
+        {
+          "Resource" : "CPULittleMinFreq",
+          "Value" : "100#"
+        },
+        {
+          "Resource" : "SchedBoost",
+          "Value" : "2"
+        }
+      ]
+    },
+    {
+      "Hint": "AMS_APP_LAUNCH_M",
+      "ResoureList": [
+        {
+          "Resource" : "CPUBigMinFreq",
+          "Value" : "100#"
+        },
+        {
+          "Resource" : "CPULittleMinFreq",
+          "Value" : "100#"
+        },
+        {
+          "Resource" : "SchedBoost",
+          "Value" : "2"
+        }
+      ]
+    },
+    {
+      "Hint": "AMS_APP_LAUNCH_LM",
+      "ResoureList": [
+        {
+          "Resource" : "CPUBigMinFreq",
+          "Value" : "100#"
+        },
+        {
+          "Resource" : "CPULittleMinFreq",
+          "Value" : "100#"
+        },
+        {
+          "Resource" : "SchedBoost",
+          "Value" : "2"
+        }
+      ]
+    },
+    {
+      "Hint": "GESTURE_DETECTED",
+      "ResoureList": [
+        {
+          "Resource" : "CPUMinFreq",
+          "Value" : "1286400"
+        },
+        {
+          "Resource" : "CPUBigMinFreq",
+          "Value" : "1132800"
+        },
+        {
+          "Resource" : "CPULittleMinFreq",
+          "Value" : "1094400"
+        }
+      ]
+    },
+    {
+      "Hint": "GESTURE_DETECTED_HRR",
+      "ResoureList": [
+        {
+          "Resource" : "CPUMinFreq",
+          "Value" : "1286400"
+        },
+        {
+          "Resource" : "CPUBigMinFreq",
+          "Value" : "1132800"
+        },
+        {
+          "Resource" : "CPULittleMinFreq",
+          "Value" : "1094400"
+        }
+      ]
+    },
+    {
+      "Hint": "PWM_ROTATION",
+      "ResoureList": [
+        {
+          "Resource" : "CPUBigMinFreq",
+          "Value" : "100#"
+        },
+        {
+          "Resource" : "CPULittleMinFreq",
+          "Value" : "100#"
+        }
+      ]
+    }
+  ]
+}

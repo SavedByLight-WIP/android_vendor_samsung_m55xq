@@ -1,0 +1,12 @@
+# M55 code for P231013-03479  by lijie at 2023/11/03 start
+on boot
+# M55 code for P231013-03479  by lijie at 2023/11/03 end
+    start vendor.diag-router
+
+service vendor.diag-router /vendor/bin/diag-router
+    class hal
+    user system
+    group system
+    capabilities KILL
+    disabled
+

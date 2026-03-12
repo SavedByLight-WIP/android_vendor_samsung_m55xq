@@ -1,0 +1,9 @@
+<manifest version="1.0" type="device">
+    <hal format="aidl">
+        <name>android.hardware.biometrics.face</name>
+		<!-- M55 code for SR-QN6887A-01-254 by feihui at 20230911 start -->
+        <version>1</version>
+		<!-- M55 code for SR-QN6887A-01-254 by feihui at 20230911 end -->
+        <fqname>IFace/default</fqname>
+    </hal>
+</manifest>
