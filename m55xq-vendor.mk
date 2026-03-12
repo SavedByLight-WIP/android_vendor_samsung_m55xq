@@ -521,8 +521,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/vendor/etc/hyper/config_model.json:$(TARGET_COPY_OUT_VENDOR)/etc/hyper/config_model.json \
     vendor/samsung/m55xq/proprietary/vendor/etc/hyper/config_vendor.json:$(TARGET_COPY_OUT_VENDOR)/etc/hyper/config_vendor.json \
     vendor/samsung/m55xq/proprietary/vendor/etc/init.qti.fm.sh:$(TARGET_COPY_OUT_VENDOR)/etc/init.qti.fm.sh \
-    vendor/samsung/m55xq/proprietary/vendor/etc/init/android.hardware.audio.service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.audio.service.rc \
-    vendor/samsung/m55xq/proprietary/vendor/etc/init/android.hardware.audio.service_64.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.audio.service_64.rc \
     vendor/samsung/m55xq/proprietary/vendor/etc/init/android.hardware.bluetooth@1.0-service-qti.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.bluetooth@1.0-service-qti.rc \
     vendor/samsung/m55xq/proprietary/vendor/etc/init/android.hardware.drm@1.4-service.widevine.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.drm@1.4-service.widevine.rc \
     vendor/samsung/m55xq/proprietary/vendor/etc/init/android.hardware.gnss-aidl-service-qti.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.gnss-aidl-service-qti.rc \
