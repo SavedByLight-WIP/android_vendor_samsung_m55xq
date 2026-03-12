@@ -1067,7 +1067,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/vendor/gpu/kbc/unified_kbcs_64.bin:$(TARGET_COPY_OUT_VENDOR)/gpu/kbc/unified_kbcs_64.bin \
     vendor/samsung/m55xq/proprietary/vendor/gpu/kbc/unified_ksqs.bin:$(TARGET_COPY_OUT_VENDOR)/gpu/kbc/unified_ksqs.bin \
     vendor/samsung/m55xq/proprietary/vendor/lib/audio_common-aidl-cpp.so:$(TARGET_COPY_OUT_VENDOR)/lib/audio_common-aidl-cpp.so \
-    vendor/samsung/m55xq/proprietary/vendor/lib/audiopolicy-types-aidl-cpp.so:$(TARGET_COPY_OUT_VENDOR)/lib/audiopolicy-types-aidl-cpp.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/btaudio_offload_if.so:$(TARGET_COPY_OUT_VENDOR)/lib/btaudio_offload_if.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/camera.device@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera.device@1.0-impl.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/camera/com.qti.eeprom.gt24p128c2csli_imx766.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.eeprom.gt24p128c2csli_imx766.so \
@@ -2039,7 +2038,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/vendor/lib/vendor.samsung.hardware.tlc.ucm@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.samsung.hardware.tlc.ucm@2.0.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/vintf-codecsolution-V2-ndk_platform.so:$(TARGET_COPY_OUT_VENDOR)/lib/vintf-codecsolution-V2-ndk_platform.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/audio_common-aidl-cpp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/audio_common-aidl-cpp.so \
-    vendor/samsung/m55xq/proprietary/vendor/lib64/audiopolicy-types-aidl-cpp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/audiopolicy-types-aidl-cpp.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/btaudio_offload_if.so:$(TARGET_COPY_OUT_VENDOR)/lib64/btaudio_offload_if.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/camera.device@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera.device@1.0-impl.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/camera/com.qti.eeprom.gt24p128c2csli_imx766.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.eeprom.gt24p128c2csli_imx766.so \
