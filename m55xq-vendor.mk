@@ -128,7 +128,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/vendor/bin/cnd:$(TARGET_COPY_OUT_VENDOR)/bin/cnd \
     vendor/samsung/m55xq/proprietary/vendor/bin/cnss-daemon:$(TARGET_COPY_OUT_VENDOR)/bin/cnss-daemon \
     vendor/samsung/m55xq/proprietary/vendor/bin/cnss_diag:$(TARGET_COPY_OUT_VENDOR)/bin/cnss_diag \
-    vendor/samsung/m55xq/proprietary/vendor/bin/cplay:$(TARGET_COPY_OUT_VENDOR)/bin/cplay \
     vendor/samsung/m55xq/proprietary/vendor/bin/ctrlapp_dut:$(TARGET_COPY_OUT_VENDOR)/bin/ctrlapp_dut \
     vendor/samsung/m55xq/proprietary/vendor/bin/debug-diag:$(TARGET_COPY_OUT_VENDOR)/bin/debug-diag \
     vendor/samsung/m55xq/proprietary/vendor/bin/diag-router:$(TARGET_COPY_OUT_VENDOR)/bin/diag-router \
