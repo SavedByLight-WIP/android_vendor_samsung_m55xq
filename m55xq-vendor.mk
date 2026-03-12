@@ -941,9 +941,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/vendor/etc/ueventd.rc:$(TARGET_COPY_OUT_VENDOR)/etc/ueventd.rc \
     vendor/samsung/m55xq/proprietary/vendor/etc/usb_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/usb_audio_policy_configuration.xml \
     vendor/samsung/m55xq/proprietary/vendor/etc/usecaseKvManager.xml:$(TARGET_COPY_OUT_VENDOR)/etc/usecaseKvManager.xml \
-    vendor/samsung/m55xq/proprietary/vendor/etc/vintf/manifest_diwali.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest_diwali.xml \
-    vendor/samsung/m55xq/proprietary/vendor/etc/vintf/manifest_taro.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest_taro.xml \
-    vendor/samsung/m55xq/proprietary/vendor/etc/vintf/manifest_ukee.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest_ukee.xml \
     vendor/samsung/m55xq/proprietary/vendor/etc/vmmgr.conf:$(TARGET_COPY_OUT_VENDOR)/etc/vmmgr.conf \
     vendor/samsung/m55xq/proprietary/vendor/etc/vramdiskd.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vramdiskd.xml \
     vendor/samsung/m55xq/proprietary/vendor/etc/wifi/icm.conf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/icm.conf \
