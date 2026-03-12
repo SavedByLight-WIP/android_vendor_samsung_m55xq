@@ -9,7 +9,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/bin/charon:$(TARGET_COPY_OUT_SYSTEM)/bin/charon \
     vendor/samsung/m55xq/proprietary/etc/audio_effects_common.conf:$(TARGET_COPY_OUT_SYSTEM)/etc/audio_effects_common.conf \
     vendor/samsung/m55xq/proprietary/etc/audio_effects_model.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/audio_effects_model.xml \
-    vendor/samsung/m55xq/proprietary/lib/libdatasource.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libdatasource.so \
     vendor/samsung/m55xq/proprietary/lib/libdatasource_local_cache.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libdatasource_local_cache.so \
     vendor/samsung/m55xq/proprietary/lib/libmedia_codeclist.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libmedia_codeclist.so \
     vendor/samsung/m55xq/proprietary/lib/libmpbase.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libmpbase.so \
