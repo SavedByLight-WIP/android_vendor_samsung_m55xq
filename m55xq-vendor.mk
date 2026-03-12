@@ -7,7 +7,6 @@ PRODUCT_SOONG_NAMESPACES += \
 
 PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/bin/charon:$(TARGET_COPY_OUT_SYSTEM)/bin/charon \
-    vendor/samsung/m55xq/proprietary/etc/audio_effects.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/audio_effects.xml \
     vendor/samsung/m55xq/proprietary/etc/audio_effects_common.conf:$(TARGET_COPY_OUT_SYSTEM)/etc/audio_effects_common.conf \
     vendor/samsung/m55xq/proprietary/etc/audio_effects_model.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/audio_effects_model.xml \
     vendor/samsung/m55xq/proprietary/etc/seccomp_policy/mediacodec.policy:$(TARGET_COPY_OUT_SYSTEM)/etc/seccomp_policy/mediacodec.policy \
