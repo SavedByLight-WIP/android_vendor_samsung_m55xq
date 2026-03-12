@@ -502,7 +502,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/vendor/etc/face3d/qcnn_concat_file_model-0324_2_encrypted:$(TARGET_COPY_OUT_VENDOR)/etc/face3d/qcnn_concat_file_model-0324_2_encrypted \
     vendor/samsung/m55xq/proprietary/vendor/etc/floating_feature.xml:$(TARGET_COPY_OUT_VENDOR)/etc/floating_feature.xml \
     vendor/samsung/m55xq/proprietary/vendor/etc/fstab.qcom:$(TARGET_COPY_OUT_VENDOR)/etc/fstab.qcom \
-    vendor/samsung/m55xq/proprietary/vendor/etc/fstab.ramplus:$(TARGET_COPY_OUT_VENDOR)/etc/fstab.ramplus \
     vendor/samsung/m55xq/proprietary/vendor/etc/ftm_test_config:$(TARGET_COPY_OUT_VENDOR)/etc/ftm_test_config \
     vendor/samsung/m55xq/proprietary/vendor/etc/ftm_test_config_diwali-idp-sku1-snd-card:$(TARGET_COPY_OUT_VENDOR)/etc/ftm_test_config_diwali-idp-sku1-snd-card \
     vendor/samsung/m55xq/proprietary/vendor/etc/ftm_test_config_diwali-idp-snd-card:$(TARGET_COPY_OUT_VENDOR)/etc/ftm_test_config_diwali-idp-snd-card \
