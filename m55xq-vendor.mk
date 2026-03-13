@@ -2690,7 +2690,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libsemnativecarrierfeature.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsemnativecarrierfeature.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libsensor_calibration.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsensor_calibration.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libsensorcal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsensorcal.so \
-    vendor/samsung/m55xq/proprietary/vendor/lib64/libsensorndkbridge.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsensorndkbridge.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libsensorslog.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsensorslog.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libsfeShiftExtrapolation.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsfeShiftExtrapolation.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libshctrl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libshctrl.so \
