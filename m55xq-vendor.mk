@@ -1353,7 +1353,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/vendor/lib/libbtnv.so:$(TARGET_COPY_OUT_VENDOR)/lib/libbtnv.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libc2d30_bltlib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libc2d30_bltlib.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libcacertclient.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcacertclient.so \
-    vendor/samsung/m55xq/proprietary/vendor/lib/libcamera2ndk_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcamera2ndk_vendor.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libcamera_nn_stub.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcamera_nn_stub.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libcamerapostproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcamerapostproc.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libcamxcommonutils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcamxcommonutils.so \
@@ -2418,7 +2417,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libbtnv.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libbtnv.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libc2d30_bltlib.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libc2d30_bltlib.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libcacertclient.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcacertclient.so \
-    vendor/samsung/m55xq/proprietary/vendor/lib64/libcamera2ndk_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamera2ndk_vendor.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libcamera_nn_stub.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamera_nn_stub.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libcamerapostproc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamerapostproc.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libcamxcommonutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcamxcommonutils.so \
