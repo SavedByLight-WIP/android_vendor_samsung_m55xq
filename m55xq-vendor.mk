@@ -1539,7 +1539,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/vendor/lib/libpowercore.so:$(TARGET_COPY_OUT_VENDOR)/lib/libpowercore.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libpredeflicker_native.so:$(TARGET_COPY_OUT_VENDOR)/lib/libpredeflicker_native.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libprofileparamstorage.so:$(TARGET_COPY_OUT_VENDOR)/lib/libprofileparamstorage.so \
-    vendor/samsung/m55xq/proprietary/vendor/lib/libpsi.so:$(TARGET_COPY_OUT_VENDOR)/lib/libpsi.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libpsmoptfeature.so:$(TARGET_COPY_OUT_VENDOR)/lib/libpsmoptfeature.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libq3dtools_adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib/libq3dtools_adreno.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libqc2audio_base.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqc2audio_base.so \
@@ -2655,7 +2654,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libprekill.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libprekill.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libprocomp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libprocomp.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libprofileparamstorage.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libprofileparamstorage.so \
-    vendor/samsung/m55xq/proprietary/vendor/lib64/libpsi.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libpsi.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libpsmoptfeature.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libpsmoptfeature.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libq3dtools_adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libq3dtools_adreno.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libqapesdk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libqapesdk.so \
