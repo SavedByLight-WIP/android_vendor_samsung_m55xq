@@ -2997,7 +2997,6 @@ PRODUCT_PACKAGES += \
     vendor.samsung.hardware.security.vaultkeeper-manifest \
     vendor.samsung.hardware.security.widevine.keyprov-service \
     vendor.samsung.hardware.sehradio_manifest_2_31 \
-    vendor.samsung.hardware.snap-default \
     vendor.samsung.hardware.tlc.iccc@1.0-manifest \
     vendor.samsung.hardware.tlc.kg-manifest \
     vendor.samsung.hardware.vibrator-default \
