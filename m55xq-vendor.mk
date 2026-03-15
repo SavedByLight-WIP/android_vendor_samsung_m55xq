@@ -2988,7 +2988,6 @@ PRODUCT_PACKAGES += \
     vendor.samsung.hardware.displayquality-default \
     vendor.samsung.hardware.radio.exclude.qcom_jdm \
     vendor.samsung.hardware.radio_manifest_2_31 \
-    vendor.samsung.hardware.securesnap-default \
     vendor.samsung.hardware.security.engmode-manifest \
     vendor.samsung.hardware.security.fkeymaster-service \
     vendor.samsung.hardware.security.hdcp.wifidisplay-default \
