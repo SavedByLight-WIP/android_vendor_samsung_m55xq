@@ -5,7 +5,7 @@ on boot
     mkdir /data/vendor/log/drk 0775 system log
 
 service drk_hal /vendor/bin/hw/vendor.samsung.hardware.security.drk@2.0-service
-    interface vendor.samsung.hardware.security.drk@2.0::ISehDrk default
+    #interface vendor.samsung.hardware.security.drk@2.0::ISehDrk default
     class hal
     user system
     group system

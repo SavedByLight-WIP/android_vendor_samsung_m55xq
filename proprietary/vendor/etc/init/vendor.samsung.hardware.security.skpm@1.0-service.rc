@@ -1,5 +1,5 @@
 service skpm_hal /vendor/bin/hw/vendor.samsung.hardware.security.skpm@1.0-service
-    interface vendor.samsung.hardware.security.skpm@1.0::ISehSkpm default
+    #interface vendor.samsung.hardware.security.skpm@1.0::ISehSkpm default
     class hal
     user system
     group system
