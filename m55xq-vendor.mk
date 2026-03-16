@@ -2974,30 +2974,3 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/vendor/lib64/vendor.samsung.hardware.wifi@2.2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.samsung.hardware.wifi@2.2.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/vendor.samsung.hardware.wifi@2.3.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.samsung.hardware.wifi@2.3.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/vintf-codecsolution-V2-ndk_platform.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vintf-codecsolution-V2-ndk_platform.so
-
-PRODUCT_PACKAGES += \
-    com.samsung.android.authfw.ta.preload \
-    com.samsung.android.biometrics.fingerprint.signed \
-    com.samsung.android.camera.qciq.signed \
-    com.samsung.android.camera.unihal.signed \
-    sec_c2_manifest_default0_1_0 \
-    secaudiohalaidl_manifest \
-    vendor.qti.gnss-service \
-    vendor.samsung.hardware.authfw@1.0-manifest \
-    vendor.samsung.hardware.biometrics.fingerprint@3.0-service \
-    vendor.samsung.hardware.displayquality-default \
-    vendor.samsung.hardware.radio.exclude.qcom_jdm \
-    vendor.samsung.hardware.radio_manifest_2_31 \
-    vendor.samsung.hardware.security.engmode-manifest \
-    vendor.samsung.hardware.security.fkeymaster-service \
-    vendor.samsung.hardware.security.hdcp.wifidisplay-default \
-    vendor.samsung.hardware.security.hermes \
-    vendor.samsung.hardware.security.rtts-manifest \
-    vendor.samsung.hardware.security.vaultkeeper-manifest \
-    vendor.samsung.hardware.security.widevine.keyprov-service \
-    vendor.samsung.hardware.sehradio_manifest_2_31 \
-    vendor.samsung.hardware.tlc.iccc@1.0-manifest \
-    vendor.samsung.hardware.tlc.kg-manifest \
-    vendor.samsung.hardware.vibrator-default \
-    vendor.samsung.hardware.wifi.hostapd \
-    vendor.samsung.hardware.wifi@2.0-service
