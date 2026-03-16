@@ -179,7 +179,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/vendor/bin/hw/vendor.display.color@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.display.color@1.0-service \
     vendor/samsung/m55xq/proprietary/vendor/bin/hw/vendor.qti.camera.provider@2.7-service_64:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.qti.camera.provider@2.7-service_64 \
     vendor/samsung/m55xq/proprietary/vendor/bin/hw/vendor.qti.hardware.capabilityconfigstore@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.qti.hardware.capabilityconfigstore@1.0-service \
-    vendor/samsung/m55xq/proprietary/vendor/bin/hw/vendor.qti.hardware.display.demura-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.qti.hardware.display.demura-service \
     vendor/samsung/m55xq/proprietary/vendor/bin/hw/vendor.qti.hardware.eid@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.qti.hardware.eid@1.0-service \
     vendor/samsung/m55xq/proprietary/vendor/bin/hw/vendor.qti.hardware.iop@2.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.qti.hardware.iop@2.0-service \
     vendor/samsung/m55xq/proprietary/vendor/bin/hw/vendor.qti.hardware.lights.service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.qti.hardware.lights.service \
