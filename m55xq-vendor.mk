@@ -1285,10 +1285,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/vendor/lib/libaivideocentral.arcsoft.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaivideocentral.arcsoft.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libapex_cmn.so:$(TARGET_COPY_OUT_VENDOR)/lib/libapex_cmn.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libapex_utils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libapex_utils.so \
-    vendor/samsung/m55xq/proprietary/vendor/lib/libar-acdb.so:$(TARGET_COPY_OUT_VENDOR)/lib/libar-acdb.so \
-    vendor/samsung/m55xq/proprietary/vendor/lib/libar-gpr.so:$(TARGET_COPY_OUT_VENDOR)/lib/libar-gpr.so \
-    vendor/samsung/m55xq/proprietary/vendor/lib/libar-gsl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libar-gsl.so \
-    vendor/samsung/m55xq/proprietary/vendor/lib/libar-pal.so:$(TARGET_COPY_OUT_VENDOR)/lib/libar-pal.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libarcsoft_beautyshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_beautyshot.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libarcsoft_dualcam_refocus_image.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_dualcam_refocus_image.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libarcsoft_dualcam_refocus_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_dualcam_refocus_preview.so \
