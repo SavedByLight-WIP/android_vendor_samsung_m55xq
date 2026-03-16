@@ -1280,12 +1280,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/vendor/lib/libadreno_utils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libadreno_utils.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libadsp_default_listener.so:$(TARGET_COPY_OUT_VENDOR)/lib/libadsp_default_listener.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libadsprpc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libadsprpc.so \
-    vendor/samsung/m55xq/proprietary/vendor/lib/libagm.so:$(TARGET_COPY_OUT_VENDOR)/lib/libagm.so \
-    vendor/samsung/m55xq/proprietary/vendor/lib/libagm_compress_plugin.so:$(TARGET_COPY_OUT_VENDOR)/lib/libagm_compress_plugin.so \
-    vendor/samsung/m55xq/proprietary/vendor/lib/libagm_mixer_plugin.so:$(TARGET_COPY_OUT_VENDOR)/lib/libagm_mixer_plugin.so \
-    vendor/samsung/m55xq/proprietary/vendor/lib/libagm_pcm_plugin.so:$(TARGET_COPY_OUT_VENDOR)/lib/libagm_pcm_plugin.so \
-    vendor/samsung/m55xq/proprietary/vendor/lib/libagmclient.so:$(TARGET_COPY_OUT_VENDOR)/lib/libagmclient.so \
-    vendor/samsung/m55xq/proprietary/vendor/lib/libagmmixer.so:$(TARGET_COPY_OUT_VENDOR)/lib/libagmmixer.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libaidenoiser.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaidenoiser.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libaidenoiserv2.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaidenoiserv2.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libaivideocentral.arcsoft.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaivideocentral.arcsoft.so \
