@@ -1599,7 +1599,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/vendor/lib/libsnamrwb.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsnamrwb.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libsnapdragoncolor-manager.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsnapdragoncolor-manager.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libsnapdragoncolor-qdcm.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsnapdragoncolor-qdcm.so \
-    vendor/samsung/m55xq/proprietary/vendor/lib/libsndcardparser.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsndcardparser.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libsns_device_mode_stub.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsns_device_mode_stub.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libsns_direct_channel_stub.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsns_direct_channel_stub.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libsns_registry_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsns_registry_skel.so \
