@@ -1372,7 +1372,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/vendor/lib/libfastcvdsp_stub.so:$(TARGET_COPY_OUT_VENDOR)/lib/libfastcvdsp_stub.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libfastcvopt.so:$(TARGET_COPY_OUT_VENDOR)/lib/libfastcvopt.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libfidoauthnr_v2.so:$(TARGET_COPY_OUT_VENDOR)/lib/libfidoauthnr_v2.so \
-    vendor/samsung/m55xq/proprietary/vendor/lib/libfilefinder.so:$(TARGET_COPY_OUT_VENDOR)/lib/libfilefinder.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libfloatingfeature.so:$(TARGET_COPY_OUT_VENDOR)/lib/libfloatingfeature.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libfmpal.so:$(TARGET_COPY_OUT_VENDOR)/lib/libfmpal.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libgame_enhance.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgame_enhance.so \
