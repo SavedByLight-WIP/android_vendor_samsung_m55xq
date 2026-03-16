@@ -1383,7 +1383,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/vendor/lib/libgoldencali_arcsoft.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgoldencali_arcsoft.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libgps.utils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgps.utils.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libgpudataproducer.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgpudataproducer.so \
-    vendor/samsung/m55xq/proprietary/vendor/lib/libgralloc.qti.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgralloc.qti.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libgralloccore.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgralloccore.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libgrallocutils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgrallocutils.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libgrdm.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgrdm.so \
