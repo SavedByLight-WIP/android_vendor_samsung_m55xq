@@ -2549,7 +2549,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libremosaic_wrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libremosaic_wrapper.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libremosaiclib.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libremosaiclib.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libril_sem.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libril_sem.so \
-    vendor/samsung/m55xq/proprietary/vendor/lib64/librmnetctl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/librmnetctl.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/librpmb.so:$(TARGET_COPY_OUT_VENDOR)/lib64/librpmb.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/librtts_client.so:$(TARGET_COPY_OUT_VENDOR)/lib64/librtts_client.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libsavsac.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsavsac.so \
