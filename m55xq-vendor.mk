@@ -2358,7 +2358,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libhyper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhyper.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libhypervintf.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhypervintf.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libidl.so \
-    vendor/samsung/m55xq/proprietary/vendor/lib64/libipanat.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libipanat.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libipebpsstriping.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libipebpsstriping.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libipebpsstriping170.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libipebpsstriping170.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libipebpsstriping480.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libipebpsstriping480.so \
@@ -2395,8 +2394,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/vendor/lib64/liblowi_client.so:$(TARGET_COPY_OUT_VENDOR)/lib64/liblowi_client.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/liblowi_common.so:$(TARGET_COPY_OUT_VENDOR)/lib64/liblowi_common.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/liblowi_wifihal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/liblowi_wifihal.so \
-    vendor/samsung/m55xq/proprietary/vendor/lib64/liblx-ar_util.so:$(TARGET_COPY_OUT_VENDOR)/lib64/liblx-ar_util.so \
-    vendor/samsung/m55xq/proprietary/vendor/lib64/liblx-osal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/liblx-osal.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libmasc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmasc.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libmcs.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmcs.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libmctfengine_stub.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmctfengine_stub.so \
@@ -2452,7 +2449,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libos.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libos.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libpadm.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libpadm.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libpal_net_if.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libpal_net_if.so \
-    vendor/samsung/m55xq/proprietary/vendor/lib64/libpalclient.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libpalclient.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libpasrutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libpasrutils.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libpdmapper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libpdmapper.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libpdnotifier.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libpdnotifier.so \
