@@ -2207,7 +2207,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libadreno_utils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libadreno_utils.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libadsp_default_listener.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libadsp_default_listener.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libadsprpc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libadsprpc.so \
-    vendor/samsung/m55xq/proprietary/vendor/lib64/libagmclient.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libagmclient.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libagmmixer.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libagmmixer.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libaidenoiser.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaidenoiser.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libaidenoiserv2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaidenoiserv2.so \
