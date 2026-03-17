@@ -2304,7 +2304,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libdpps.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libdpps.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libdrmfs.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libdrmfs.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libdrmtime.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libdrmtime.so \
-    vendor/samsung/m55xq/proprietary/vendor/lib64/libdrmutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libdrmutils.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libdsd2pcm.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libdsd2pcm.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libdsi_netctrl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libdsi_netctrl.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libdsms_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libdsms_vendor.so \
