@@ -2229,7 +2229,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libarcsoft_super_night_raw.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libarcsoft_super_night_raw.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libarcsoft_video_hdr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libarcsoft_video_hdr.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libarcsoft_videostabilizer.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libarcsoft_videostabilizer.so \
-    vendor/samsung/m55xq/proprietary/vendor/lib64/libats.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libats.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libaudio_log_utils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libaudio_log_utils.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libbacklight-calib.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libbacklight-calib.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libbase64.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libbase64.so \
