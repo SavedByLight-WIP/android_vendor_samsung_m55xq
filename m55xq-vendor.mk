@@ -2605,7 +2605,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libsnaplite_native_secure.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsnaplite_native_secure.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libsnaplite_wrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsnaplite_wrapper.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libsnaplite_wrapper_secure.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsnaplite_wrapper_secure.so \
-    vendor/samsung/m55xq/proprietary/vendor/lib64/libsndcardparser.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsndcardparser.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libsnpe_dsp_domains_v3.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsnpe_dsp_domains_v3.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libsnpe_wrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsnpe_wrapper.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libsns_device_mode_stub.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsns_device_mode_stub.so \
