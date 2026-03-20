@@ -27,7 +27,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/lib/vendor.qti.hardware.display.config-V7-ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.qti.hardware.display.config-V7-ndk.so \
     vendor/samsung/m55xq/proprietary/lib/vendor.qti.hardware.display.config-V8-ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.qti.hardware.display.config-V8-ndk.so \
     vendor/samsung/m55xq/proprietary/lib/vendor.qti.hardware.display.config-V9-ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.qti.hardware.display.config-V9-ndk.so \
-    vendor/samsung/m55xq/proprietary/lib/vendor.samsung.hardware.security.hdcp.wifidisplay-V2-ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.samsung.hardware.security
+    vendor/samsung/m55xq/proprietary/lib/vendor.samsung.hardware.security.hdcp.wifidisplay-V2-ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.samsung.hardware.security \
     vendor/samsung/m55xq/proprietary/lib64/libcharon.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libcharon.so \
     vendor/samsung/m55xq/proprietary/lib64/libdatasource_local_cache.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libdatasource_local_cache.so \
     vendor/samsung/m55xq/proprietary/lib64/libhdcp2.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libhdcp2.so \
