@@ -14,12 +14,12 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/lib/libomafldrm.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libomafldrm.so \
     vendor/samsung/m55xq/proprietary/lib/libstagefright_httplive_sec.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libstagefright_httplive_sec.so \
     vendor/samsung/m55xq/proprietary/lib/vendor.qti.diaghal-V1-ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.qti.diaghal-V1-ndk.so \
-    vendor/samsung/m55xq/proprietary/lib/vendor.hardware.data.connectionaidl-V1-ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.hardware.data.connectionaidl-V1-ndk.so \
-    vendor/samsung/m55xq/proprietary/lib/vendor.hardware.display.config-V1-ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.hardware.display.config-V1-ndk.so \
-    vendor/samsung/m55xq/proprietary/lib/vendor.hardware.display.config-V10-ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.hardware.display.config-V10-ndk.so \
-    vendor/samsung/m55xq/proprietary/lib/vendor.hardware.display.config-V11-ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.hardware.display.config-V11-ndk.so \
-    vendor/samsung/m55xq/proprietary/lib/vendor.hardware.display.config-V12-ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.hardware.display.config-V12-ndk.so \
-    vendor/samsung/m55xq/proprietary/lib/vendor.hardware.display.config-V2-ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.qti.hardware.display.config-V2-ndk.so \
+    vendor/samsung/m55xq/proprietary/lib/vendor.qti.hardware.data.connectionaidl-V1-ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.qti.hardware.data.connectionaidl-V1-ndk.so \
+    vendor/samsung/m55xq/proprietary/lib/vendor.qti.hardware.display.config-V1-ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.qti.hardware.display.config-V1-ndk.so \
+    vendor/samsung/m55xq/proprietary/lib/vendor.qti.hardware.display.config-V10-ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.qti.hardware.display.config-V10-ndk.so \
+    vendor/samsung/m55xq/proprietary/lib/vendor.qti.hardware.display.config-V11-ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.qti.hardware.display.config-V11-ndk.so \
+    vendor/samsung/m55xq/proprietary/lib/vendor.qti.hardware.display.config-V12-ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.qti.hardware.display.config-V12-ndk.so \
+    vendor/samsung/m55xq/proprietary/lib/vendor.qti.hardware.display.config-V2-ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.qti.hardware.display.config-V2-ndk.so \
     vendor/samsung/m55xq/proprietary/lib/vendor.qti.hardware.display.config-V3-ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.qti.hardware.display.config-V3-ndk.so \
     vendor/samsung/m55xq/proprietary/lib/vendor.qti.hardware.display.config-V4-ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.qti.hardware.display.config-V4-ndk.so \
     vendor/samsung/m55xq/proprietary/lib/vendor.qti.hardware.display.config-V5-ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.qti.hardware.display.config-V5-ndk.so \
@@ -27,6 +27,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/lib/vendor.qti.hardware.display.config-V7-ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.qti.hardware.display.config-V7-ndk.so \
     vendor/samsung/m55xq/proprietary/lib/vendor.qti.hardware.display.config-V8-ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.qti.hardware.display.config-V8-ndk.so \
     vendor/samsung/m55xq/proprietary/lib/vendor.qti.hardware.display.config-V9-ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.qti.hardware.display.config-V9-ndk.so \
+    vendor/samsung/m55xq/proprietary/lib/vendor.samsung.hardware.security.hdcp.wifidisplay-V2-ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.samsung.hardware.security
     vendor/samsung/m55xq/proprietary/lib64/libarcsoft_aiscenedetection.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libarcsoft_aiscenedetection.so \
     vendor/samsung/m55xq/proprietary/lib64/libarcsoft_beautyshot.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libarcsoft_beautyshot.so \
     vendor/samsung/m55xq/proprietary/lib64/libarcsoft_dehaze.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libarcsoft_dehaze.so \
