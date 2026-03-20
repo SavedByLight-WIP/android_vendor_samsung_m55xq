@@ -28,19 +28,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/lib/vendor.qti.hardware.display.config-V8-ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.qti.hardware.display.config-V8-ndk.so \
     vendor/samsung/m55xq/proprietary/lib/vendor.qti.hardware.display.config-V9-ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.qti.hardware.display.config-V9-ndk.so \
     vendor/samsung/m55xq/proprietary/lib/vendor.samsung.hardware.security.hdcp.wifidisplay-V2-ndk.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.samsung.hardware.security
-    vendor/samsung/m55xq/proprietary/lib64/libarcsoft_beautyshot.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libarcsoft_beautyshot.so \
-    vendor/samsung/m55xq/proprietary/lib64/libarcsoft_dehaze.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libarcsoft_dehaze.so \
-    vendor/samsung/m55xq/proprietary/lib64/libarcsoft_dualcam_refocus_image.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libarcsoft_dualcam_refocus_image.so \
-    vendor/samsung/m55xq/proprietary/lib64/libarcsoft_funnyface.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libarcsoft_funnyface.so \
-    vendor/samsung/m55xq/proprietary/lib64/libarcsoft_hdr_detection.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libarcsoft_hdr_detection.so \
-    vendor/samsung/m55xq/proprietary/lib64/libarcsoft_high_dynamic_range.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libarcsoft_high_dynamic_range.so \
-    vendor/samsung/m55xq/proprietary/lib64/libarcsoft_low_light_shot.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libarcsoft_low_light_shot.so \
-    vendor/samsung/m55xq/proprietary/lib64/libarcsoft_panorama.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libarcsoft_panorama.so \
-    vendor/samsung/m55xq/proprietary/lib64/libarcsoft_portrait_distortion_correction.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libarcsoft_portrait_distortion_correction.so \
-    vendor/samsung/m55xq/proprietary/lib64/libarcsoft_portraitlight_image.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libarcsoft_portraitlight_image.so \
-    vendor/samsung/m55xq/proprietary/lib64/libarcsoft_qnnhtp.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libarcsoft_qnnhtp.so \
-    vendor/samsung/m55xq/proprietary/lib64/libarcsoft_scbokeh_image.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libarcsoft_scbokeh_image.so \
-    vendor/samsung/m55xq/proprietary/lib64/libarcsoft_singlecam_bokeh.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libarcsoft_singlecam_bokeh.so \
     vendor/samsung/m55xq/proprietary/lib64/libcharon.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libcharon.so \
     vendor/samsung/m55xq/proprietary/lib64/libdatasource_local_cache.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libdatasource_local_cache.so \
     vendor/samsung/m55xq/proprietary/lib64/libhdcp2.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libhdcp2.so \
