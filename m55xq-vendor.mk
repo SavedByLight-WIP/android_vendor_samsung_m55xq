@@ -1204,7 +1204,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/vendor/lib/dualcali_golden_txd_ly.bin:$(TARGET_COPY_OUT_VENDOR)/lib/dualcali_golden_txd_ly.bin \
     vendor/samsung/m55xq/proprietary/vendor/lib/dualcali_golden_txd_txd.bin:$(TARGET_COPY_OUT_VENDOR)/lib/dualcali_golden_txd_txd.bin \
     vendor/samsung/m55xq/proprietary/vendor/lib/egl/eglSubDriverAndroid.so:$(TARGET_COPY_OUT_VENDOR)/lib/egl/eglSubDriverAndroid.so \
-    vendor/samsung/m55xq/proprietary/vendor/lib/egl/libEGL_adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib/egl/libEGL_adreno.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib/egl/libGLESv1_CM_adreno.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/egl/libGLESv2_adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib/egl/libGLESv2_adreno.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/egl/libVkLayer_ADRENO_qprofiler.so:$(TARGET_COPY_OUT_VENDOR)/lib/egl/libVkLayer_ADRENO_qprofiler.so \
@@ -1246,7 +1245,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/vendor/lib/libApeSwDec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libApeSwDec.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libC2D2.so:$(TARGET_COPY_OUT_VENDOR)/lib/libC2D2.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libCB.so:$(TARGET_COPY_OUT_VENDOR)/lib/libCB.so \
-    vendor/samsung/m55xq/proprietary/vendor/lib/libEGL_adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib/libEGL_adreno.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libEvrcSwCodec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libEvrcSwCodec.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libFace3DTA.so:$(TARGET_COPY_OUT_VENDOR)/lib/libFace3DTA.so \
     vendor/samsung/m55xq/proprietary/vendor/lib/libFace3D_hlos.so:$(TARGET_COPY_OUT_VENDOR)/lib/libFace3D_hlos.so \
@@ -2119,7 +2117,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/vendor/lib64/com.qualcomm.qti.uceservice@2.2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/com.qualcomm.qti.uceservice@2.2.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/com.qualcomm.qti.uceservice@2.3.so:$(TARGET_COPY_OUT_VENDOR)/lib64/com.qualcomm.qti.uceservice@2.3.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/egl/eglSubDriverAndroid.so:$(TARGET_COPY_OUT_VENDOR)/lib64/egl/eglSubDriverAndroid.so \
-    vendor/samsung/m55xq/proprietary/vendor/lib64/egl/libEGL_adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib64/egl/libEGL_adreno.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/egl/libGLESv1_CM_adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib64/egl/libGLESv1_CM_adreno.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/egl/libGLESv2_adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib64/egl/libGLESv2_adreno.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/egl/libVkLayer_ADRENO_qprofiler.so:$(TARGET_COPY_OUT_VENDOR)/lib64/egl/libVkLayer_ADRENO_qprofiler.so \
@@ -2162,7 +2159,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libC2D2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libC2D2.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libCB.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libCB.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libDspIOProxy_stub.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libDspIOProxy_stub.so \
-    vendor/samsung/m55xq/proprietary/vendor/lib64/libEGL_adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libEGL_adreno.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libEvrcSwCodec.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libEvrcSwCodec.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libFace3DTA.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libFace3DTA.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/libFace3D_hlos.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libFace3D_hlos.so \
