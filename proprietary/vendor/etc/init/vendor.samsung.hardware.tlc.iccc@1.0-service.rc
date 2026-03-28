@@ -1,5 +1,5 @@
 service icccserv /vendor/bin/hw/vendor.samsung.hardware.tlc.iccc@1.0-service
-    #interface vendor.samsung.hardware.tlc.iccc@1.0::ISehIccc default
+    interface vendor.samsung.hardware.tlc.iccc@1.0::ISehIccc default
     class hal
     user system
     group system
