@@ -2870,7 +2870,6 @@ PRODUCT_COPY_FILES += \
     android.hardware.dumpstate@1.1-service-lazy \
     android.hardware.gnss-aidl-service-qti \
     android.hardware.gnss@2.1-service-qti \
-    android.hardware.graphics.mapper-impl-qti-display \
     android.hardware.health@2.1-samsung \
     android.hardware.nfc@1.2-service.sec \
     android.hardware.sensors@2.1-multihal \
