@@ -2882,8 +2882,6 @@ PRODUCT_COPY_FILES += \
     lights-default-sec \
     manifest_android.hardware.drm@1.4-service.clearkey \
     manifest_android.hardware.drm@1.4-service.widevine \
-    manifest_non_qmaa \
-    manifest_non_qmaa_extn \
     mppserver \
     power-samsung \
     power \
