@@ -2877,8 +2877,6 @@ PRODUCT_COPY_FILES += \
     android.hardware.sensors@2.1-multihal \
     android.hardware.thermal@2.0-service.qti \
     android.hardware.usb@1.3-service.coral \
-    android.hardware.wifi.hostapd \
-    android.hardware.wifi.supplicant \
     android.hardware.wifi@1.0-service \
     c2_manifest_vendor_audio \
     face-jdm \
