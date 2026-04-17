@@ -2872,7 +2872,6 @@ PRODUCT_COPY_FILES += \
     android.hardware.gnss@2.1-service-qti \
     android.hardware.health@2.1-samsung \
     android.hardware.nfc@1.2-service.sec \
-    android.hardware.sensors@2.1-multihal \
     android.hardware.thermal@2.0-service.qti \
     android.hardware.usb@1.3-service.coral \
     android.hardware.wifi@1.0-service \
