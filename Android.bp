@@ -105,15 +105,6 @@ android_app_import {
 }
 
 prebuilt_etc_xml {
-	name: "android.hardware.cas@1.2-service-lazy",
-	owner: "samsung",
-	src: "proprietary/vendor/etc/vintf/manifest/android.hardware.cas@1.2-service-lazy.xml",
-	filename_from_src: true,
-	sub_dir: "vintf/manifest",
-	soc_specific: true,
-}
-
-prebuilt_etc_xml {
 	name: "android.hardware.dumpstate@1.1-service-lazy",
 	owner: "samsung",
 	src: "proprietary/vendor/etc/vintf/manifest/android.hardware.dumpstate@1.1-service-lazy.xml",
