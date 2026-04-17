@@ -2867,7 +2867,6 @@ PRODUCT_COPY_FILES += \
     com.qualcomm.qti.gpudrivers.taro.api32 \
     qcrilmsgtunnel \
     android.hardware.atrace@1.0-service \
-    android.hardware.cas@1.2-service-lazy \
     android.hardware.dumpstate@1.1-service-lazy \
     android.hardware.gnss-aidl-service-qti \
     android.hardware.gnss@2.1-service-qti \
