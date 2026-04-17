@@ -2854,3 +2854,76 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m55xq/proprietary/vendor/lib64/vendor.samsung.hardware.wifi@2.2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.samsung.hardware.wifi@2.2.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/vendor.samsung.hardware.wifi@2.3.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.samsung.hardware.wifi@2.3.so \
     vendor/samsung/m55xq/proprietary/vendor/lib64/vintf-codecsolution-V2-ndk_platform.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vintf-codecsolution-V2-ndk_platform.so
+
+    PRODUCT_PACKAGES += \
+    com.samsung.android.authfw.ta.preload \
+    com.samsung.android.biometrics.fingerprint.signed \
+    com.samsung.android.camera.qciq.signed \
+    com.samsung.android.camera.unihal.signed \
+    CACertService \
+    CneApp \
+    TimeService \
+    TrustZoneAccessService \
+    com.qualcomm.qti.gpudrivers.taro.api32 \
+    qcrilmsgtunnel \
+    android.hardware.atrace@1.0-service \
+    android.hardware.cas@1.2-service-lazy \
+    android.hardware.dumpstate@1.1-service-lazy \
+    android.hardware.gnss-aidl-service-qti \
+    android.hardware.gnss@2.1-service-qti \
+    android.hardware.graphics.mapper-impl-qti-display \
+    android.hardware.health@2.1-samsung \
+    android.hardware.nfc@1.2-service.sec \
+    android.hardware.sensors@2.1-multihal \
+    android.hardware.thermal@2.0-service.qti \
+    android.hardware.usb@1.3-service.coral \
+    android.hardware.wifi.hostapd \
+    android.hardware.wifi.supplicant \
+    android.hardware.wifi@1.0-service \
+    c2_manifest_vendor_audio \
+    face-jdm \
+    hyper-default-sec \
+    iweaver_v1_manifest \
+    lights-default-sec \
+    manifest_android.hardware.drm@1.4-service.clearkey \
+    manifest_android.hardware.drm@1.4-service.widevine \
+    manifest_non_qmaa \
+    manifest_non_qmaa_extn \
+    mppserver \
+    power-samsung \
+    power \
+    sec_c2_manifest_default0_1_0 \
+    secaudiohalaidl_manifest \
+    vendor.qti.diag.hal.service \
+    vendor.qti.gnss-service \
+    vendor.qti.hardware.display.allocator-service \
+    vendor.qti.hardware.display.composer-service \
+    vendor.qti.hardware.display.demura-service \
+    vendor.qti.hardware.lights.service \
+    vendor.qti.hardware.limits-service \
+    vendor.qti.hardware.perf \
+    vendor.qti.hardware.power.powermodule \
+    vendor.qti.hardware.qconfig@1.0-service \
+    vendor.qti.hardware.servicetracker@1.2-service \
+    vendor.qti.hardware.vpp@2.0-service \
+    vendor.qti.memory.pasrmanager@1.0-service \
+    vendor.samsung.hardware.authfw@1.0-manifest \
+    vendor.samsung.hardware.biometrics.fingerprint@3.0-service \
+    vendor.samsung.hardware.displayquality-default \
+    vendor.samsung.hardware.radio.exclude.qcom_jdm \
+    vendor.samsung.hardware.radio_manifest_2_31 \
+    vendor.samsung.hardware.securesnap-default \
+    vendor.samsung.hardware.security.engmode-manifest \
+    vendor.samsung.hardware.security.fkeymaster-service \
+    vendor.samsung.hardware.security.hdcp.wifidisplay-default \
+    vendor.samsung.hardware.security.hermes \
+    vendor.samsung.hardware.security.rtts-manifest \
+    vendor.samsung.hardware.security.vaultkeeper-manifest \
+    vendor.samsung.hardware.security.widevine.keyprov-service \
+    vendor.samsung.hardware.sehradio_manifest_2_31 \
+    vendor.samsung.hardware.snap-default \
+    vendor.samsung.hardware.tlc.iccc@1.0-manifest \
+    vendor.samsung.hardware.tlc.kg-manifest \
+    vendor.samsung.hardware.vibrator-default \
+    vendor.samsung.hardware.wifi.hostapd \
+    vendor.samsung.hardware.wifi@2.0-service
