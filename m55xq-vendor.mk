@@ -2923,5 +2923,4 @@ PRODUCT_COPY_FILES += \
     vendor.samsung.hardware.tlc.iccc@1.0-manifest \
     vendor.samsung.hardware.tlc.kg-manifest \
     vendor.samsung.hardware.vibrator-default \
-    vendor.samsung.hardware.wifi.hostapd \
     vendor.samsung.hardware.wifi@2.0-service
