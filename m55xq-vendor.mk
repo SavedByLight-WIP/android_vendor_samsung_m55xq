@@ -2884,7 +2884,6 @@ PRODUCT_COPY_FILES += \
     manifest_android.hardware.drm@1.4-service.widevine \
     mppserver \
     power-samsung \
-    power \
     sec_c2_manifest_default0_1_0 \
     secaudiohalaidl_manifest \
     vendor.qti.diag.hal.service \
